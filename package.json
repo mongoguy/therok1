@@ -1,0 +1,31 @@
+{
+  "name": "therok",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kal20142014/therok.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kal20142014/therok/issues"
+  },
+  "homepage": "https://github.com/kal20142014/therok",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.1.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+  
+}
